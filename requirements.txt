@@ -1,0 +1,16 @@
+-f https://download.pytorch.org/whl/lts/1.10.0/torch_lts.html
+gdown
+Cython
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-contrib-python
+pillow
+PyYAML>=5.3
+scipy>=1.4.1
+tqdm>=4.41.0
+flask-cors
+gunicorn
+torch==1.10.0
+torchvision==0.11.1
+pandas
+seaborn
